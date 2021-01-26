@@ -46,3 +46,10 @@ Similar number of input layers were used with 'simoid' as activation for binary 
 Confusion Metrix show relatively bigger numbers for 'FP' and 'FN', which might be due to some images can't be recognized fully , i.e. kids..
 ![text](https://user-images.githubusercontent.com/68614187/105916539-b0ef5300-5ff6-11eb-9f56-1ab51568b0a4.png)
 
+### Convolutional Neural Network - Ethnicity Prediction Model
+Ethnicity model was tested using 'softma' as activation (for multi classification) , 'adam' as optimizer and accuracy as metrics. 
+![text](https://user-images.githubusercontent.com/68614187/105917124-910c5f00-5ff7-11eb-9697-341a6a741cb4.png)
+![text](https://user-images.githubusercontent.com/68614187/105917439-eba5bb00-5ff7-11eb-9de6-7b2290566121.png)
+
+Confusion metrics show the stronger prediction in category 0, 3 and 1. 
+![text](https://user-images.githubusercontent.com/68614187/105917519-05470280-5ff8-11eb-99dd-7769817f2fe2.png)
