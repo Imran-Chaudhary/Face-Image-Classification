@@ -8,3 +8,4 @@ Main data set is from UTKFace which has been downloaded and made it available to
 
 ### Data Categorization
 
+https://user-images.githubusercontent.com/68614187/105902137-dde63a80-5fe3-11eb-96ab-68381444c7a5.png
