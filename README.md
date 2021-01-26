@@ -9,5 +9,5 @@ Main data set is from UTKFace which has been downloaded and made it available to
 ### Data Categorization
 ![text](https://user-images.githubusercontent.com/68614187/105905227-cc9f2d00-5fe7-11eb-9a45-6ac1ebb36fc5.JPG)
 
-![text](https://github.com/Imran-Chaudhary/Face-Image-Classification/commit/bded79356fe77437d8ec83a68b789a79371c136b#commitcomment-46400538)
+![text](https://user-images.githubusercontent.com/68614187/105910076-0bd07c80-5fee-11eb-830c-9d55ced92829.JPG)
 
