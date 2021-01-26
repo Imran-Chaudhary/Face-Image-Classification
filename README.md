@@ -49,6 +49,7 @@ Confusion Metrix show relatively bigger numbers for 'FP' and 'FN', which might b
 ### Convolutional Neural Network - Ethnicity Prediction Model
 Ethnicity model was tested using 'softma' as activation (for multi classification) , 'adam' as optimizer and accuracy as metrics. 
 ![text](https://user-images.githubusercontent.com/68614187/105917124-910c5f00-5ff7-11eb-9697-341a6a741cb4.png)
+
 ![text](https://user-images.githubusercontent.com/68614187/105917439-eba5bb00-5ff7-11eb-9de6-7b2290566121.png)
 
 Confusion metrics show the stronger prediction in category 0, 3 and 1. 
