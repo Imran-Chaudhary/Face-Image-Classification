@@ -55,3 +55,11 @@ Ethnicity model was tested using 'softma' as activation (for multi classificatio
 Confusion metrics show the stronger prediction in category 0, 3 and 1.
 
 ![text](https://user-images.githubusercontent.com/68614187/105917519-05470280-5ff8-11eb-99dd-7769817f2fe2.png)
+
+## Model Performence - Random Face Selection
+Finally we took a test of randomly selecting face images and see that 'Gender' and 'Ethnicity' models have higher prediction where as 'Age' model sometimes show an offset of ~6-7 years which was the same as of MSE.
+
+#### Actual VS Prediction
+
+![text](https://user-images.githubusercontent.com/68614187/105918165-1b08f780-5ff9-11eb-8061-2b515ed06145.png)
+![text](https://user-images.githubusercontent.com/68614187/105918224-34aa3f00-5ff9-11eb-80e7-ce8c93910315.png)
