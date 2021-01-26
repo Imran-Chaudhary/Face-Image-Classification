@@ -31,7 +31,8 @@ Shows the heatmap for feature's relevancy.
 As Age is considered to be the contineous variable (Regression Problem) and Gender, Ethnicity are considered (Classification Problem) due to categorical / binary variables.
 
 ### Convolutional Neural Network - Age Prediction Model
-Different batch sizes were tried as input, including 64,128,256 and 512 number of layers using 'relu' as an activation. Then image was flattened and output in a sigle layer and finally model was compiled using'adam' as an optimizer with measuring 'MSE'. 
+Different batch sizes were tried as input, including 64,128,256 and 512 number of layers using 'relu' as an activation. Then image was flattened and output in a sigle layer and finally model was compiled using'adam' as an optimizer with measuring 'MSE'.
+
 ![text](https://user-images.githubusercontent.com/68614187/105915290-23f7ca00-5ff5-11eb-96f7-d0e6ba5b58f2.JPG)
 
 #### Loss and MSE - Age Model
@@ -47,7 +48,8 @@ Confusion Metrix show relatively bigger numbers for 'FP' and 'FN', which might b
 ![text](https://user-images.githubusercontent.com/68614187/105916539-b0ef5300-5ff6-11eb-9f56-1ab51568b0a4.png)
 
 ### Convolutional Neural Network - Ethnicity Prediction Model
-Ethnicity model was tested using 'softma' as activation (for multi classification) , 'adam' as optimizer and accuracy as metrics. 
+Ethnicity model was tested using 'softma' as activation (for multi classification) , 'adam' as optimizer and accuracy as metrics.
+
 ![text](https://user-images.githubusercontent.com/68614187/105917124-910c5f00-5ff7-11eb-9697-341a6a741cb4.png)
 
 ![text](https://user-images.githubusercontent.com/68614187/105917439-eba5bb00-5ff7-11eb-9de6-7b2290566121.png)
