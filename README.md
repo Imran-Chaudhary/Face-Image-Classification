@@ -11,9 +11,13 @@ Main data set is from UTKFace which has been downloaded and made it available to
 
 
 ### Exploratory Data Analysis - Data Insight
+
+Age- Ranging from 1-116 yrs
 ![text](https://user-images.githubusercontent.com/68614187/105905227-cc9f2d00-5fe7-11eb-9a45-6ac1ebb36fc5.JPG)
 
+Gender - 0: Male, 1: Female
 ![text](https://user-images.githubusercontent.com/68614187/105910076-0bd07c80-5fee-11eb-830c-9d55ced92829.JPG)
 
+Ethnicity: 0: White, 1: Black, 2: Asian, 3: Indian, 4: Other
 ![text](https://user-images.githubusercontent.com/68614187/105911047-5a324b00-5fef-11eb-905d-e9c2a7f13587.JPG)
 
