@@ -10,7 +10,7 @@ Main data set is from UTKFace which has been downloaded and made it available to
 ![text](https://user-images.githubusercontent.com/68614187/105911814-328fb280-5ff0-11eb-8603-31f8c8d1b9df.JPG)
 
 
-### Data Distribution
+### Exploratory Data Analysis - Data Insight
 ![text](https://user-images.githubusercontent.com/68614187/105905227-cc9f2d00-5fe7-11eb-9a45-6ac1ebb36fc5.JPG)
 
 ![text](https://user-images.githubusercontent.com/68614187/105910076-0bd07c80-5fee-11eb-830c-9d55ced92829.JPG)
