@@ -34,6 +34,7 @@ As Age is considered to be the contineous variable (Regression Problem) and Gend
 1. Different batch sizes were tried as input, including 64,128,256 and 512 number of layers using 'relu' as an activation. Then image was flattened and output in a sigle layer and finally model is compiled using'adam' as an optimizer with measuring 'MSE'. 
 ![text](https://user-images.githubusercontent.com/68614187/105915290-23f7ca00-5ff5-11eb-96f7-d0e6ba5b58f2.JPG)
 
+#### Loss and MSE - Age Model
 ![text](https://user-images.githubusercontent.com/68614187/105915462-628d8480-5ff5-11eb-96b8-bbbb16503ca2.png)
 
 
