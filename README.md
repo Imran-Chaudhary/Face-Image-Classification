@@ -22,3 +22,5 @@ Three target variables Age, Gender and Ethnicity are mentioned categorizing the 
 #### Ethnicity: 0: White, 1: Black, 2: Asian, 3: Indian, 4: Other
 ![text](https://user-images.githubusercontent.com/68614187/105911047-5a324b00-5fef-11eb-905d-e9c2a7f13587.JPG)
 
+### Features Relevancy 
+![text](https://user-images.githubusercontent.com/68614187/105912618-5ef7fe80-5ff1-11eb-90f4-bd8fa4346da3.JPG)
